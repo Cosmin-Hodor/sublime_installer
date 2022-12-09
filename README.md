@@ -1,4 +1,4 @@
-﻿## Script available only for Ubuntu or Debian
+﻿### Script available only for Ubuntu or Debian
  
  ## Contributing
 
