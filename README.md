@@ -1,4 +1,6 @@
-﻿## Contributing
+﻿## Script available only for Ubuntu or Debian
+ 
+ ## Contributing
 
 Contributions are always welcome!
 
